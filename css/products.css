@@ -1,0 +1,54 @@
+.productsContainer {
+    width: 95%;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 2em;
+}
+
+.productContainer {
+    padding: 1em;
+    margin: .3em;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    height: 10em;
+    display: inline-table;
+    width: 12em;
+    text-align: left;
+    vertical-align: center;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.productName {
+    font-weight: bold;
+}
+
+.pageNameContainer {
+    font-size: 3em;
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: 'Roboto-thin', sans-serif;
+}
+
+.pageNameContainer > p {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.productPrice { 
+    position: absolute;
+    bottom: 0;
+}
+
+.orderBy {
+    float: right;
+    margin-right: 1em;
+    border-radius: 2em;
+}
+
+.footer {
+    margin-top: auto !important;
+    position: inherit !important;
+}

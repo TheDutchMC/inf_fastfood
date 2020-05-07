@@ -1,0 +1,23 @@
+.productDetailsContainer {
+    width: 100%;
+    margin: 0 auto;
+    float: center;
+    font-size: 1.2em;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 1em;
+}
+
+.specificsTr {
+    width: 100%;
+}
+
+.identifier {
+    width: 49%;
+
+    text-align: right;
+    padding-right: .7em;;
+}
+
+.footer {
+    position: fixed !important;
+}
