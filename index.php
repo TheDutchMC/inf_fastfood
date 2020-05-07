@@ -32,8 +32,7 @@
                 <li><p> SQL </p></li>
             </ul>
             <p> Fonts van Google Fonts </p>
-            <br/>
-            <p> Source code: </p>
+            <p> Source code: <a class="link" href="https://github.com/TheDutchMC/inf_fastfood"> Github </a></p>
         </div>
 
         <?php
